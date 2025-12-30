@@ -1,0 +1,11 @@
+gradio==4.19.2
+pandas==2.1.4
+faiss-cpu==1.7.4
+requests==2.31.0
+numpy==1.24.3
+groq==0.8.0
+python-dotenv==1.0.0
+torch==2.0.1
+transformers==4.35.2
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
